@@ -2,7 +2,7 @@
 <h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝚂𝚞𝚙𝚛𝚒𝚝 𝚂𝚊𝚛𝚔𝚊𝚛 👨🏻‍💻</h1>
 <h3 align="center">A Passionate Programmer From India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="coding" width="400" src="https://www.minjunkim.ca/images/lofiboy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supritsarkar&label=Profile%20views&color=0e75b6&style=flat" alt="supritsarkar" /> </p>
 
 - 🌱 I’m currently learning **MERN-Stack Development**
