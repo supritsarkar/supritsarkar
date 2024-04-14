@@ -1,5 +1,5 @@
 ![logo](https://wallpapercave.com/wp/wp2763910.gif)
-<h1 align="center">Hi 👋, I'm Suprit Sarkar 👨🏻‍💻</h1>
+<h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝚂𝚞𝚙𝚛𝚒𝚝 𝚂𝚊𝚛𝚔𝚊𝚛 👨🏻‍💻</h1>
 <h3 align="center">A Passionate Programmer From India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
